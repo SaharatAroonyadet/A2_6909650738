@@ -1,0 +1,40 @@
+header {
+    text-align: center;
+    font-size: 30px;
+    border: solid;
+    font-family: serif;
+    background-color: rgba(99, 95, 88, 0.301);
+}
+
+.about-what {
+    display: flex;
+    gap: 400px;
+    align-items: flex-start;
+    margin: 0 auto;
+    padding: 10px;
+    
+}
+
+.about-ref {
+padding: 10px;
+margin: 0 auto;
+}
+
+.about-img {
+    text-align: center;
+    background-color: gray;
+    border: solid;
+}
+
+.about-container {
+    display: flex;
+    gap: 550px;
+    align-items: flex-start;
+    margin: 0 auto;
+    padding: 10px;
+    
+    
+}
+main{
+    background-color: rgb(229, 235, 235);
+}
